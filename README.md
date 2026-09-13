@@ -326,7 +326,7 @@ MIT License
 
 *Built for protection. Designed for style.*
 
-<a href="https://discord.gg/jRfzgzCTt"><img src="https://discord.com/api/guilds/1301573144817045524/widget.png?style=banner2" alt="Marin Discord Server" width="480"/></a>
+<a href="https://discord.gg/jRfzgzCTt"</a>
 
 <p>
   <a href="https://discord.gg/jRfzgzCTt"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
