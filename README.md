@@ -329,11 +329,11 @@ MIT License
 <a href="https://discord.gg/jRfzgzCTt"</a>
 
 <p>
-  <a href="https://discord.gg/jRfzgzCTt"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/jRfzgzCTt"></a>
   <a href="https://discord.gg/jRfzgzCTt">
   <img src="assets/banner.jpg" width="100%" alt="Join our Discord server">
 </a>
-  <a href="https://"><img src="https://img.shields.io/badge/⭐%20PREMIUM%20HOSTING-NexioHost-FFD700?style=for-the-badge&labelColor=1a1a2e&color=FFD700&logoColor=FFD700"/></a>
+  <a href="https://"></a>
 </p>
 
 © 2026 Marin — MIT License
