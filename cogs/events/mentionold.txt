@@ -56,7 +56,7 @@ class Mention(commands.Cog):
                 embed.set_footer(text="Powered by Marin", icon_url=self.bot.user.avatar.url)
 
                 buttons = [
-                    discord.ui.Button(label="Invite", style=discord.ButtonStyle.link, url="https://discord.com/oauth2/authorize?client_id=1396114795102470196&permissions=8&integration_type=0&scope=bot+applications.commands"),
+                    discord.ui.Button(label="Invite", style=discord.ButtonStyle.link, url="https://discord.com/oauth2/authorize?client_id=1547977860529266689&permissions=8&integration_type=0&scope=bot"),
                     discord.ui.Button(label="Support", style=discord.ButtonStyle.link, url="https://discord.gg/jRfzgzCTt"),
                 ]
 

@@ -1,15 +1,3 @@
-# ╔══════════════════════════════════════════════════════════════════╗
-# ║                                                                  ║
-# ║   ░█▀▀░█▀█░█▀▄░█▀▀░█░█   ░█▀▄░█▀▀░█░█░█▀▀                     ║
-# ║   ░█░░░█░█░█░█░█▀▀░▄▀▄   ░█░█░█▀▀░▀▄▀░▀▀█                     ║
-# ║   ░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀░▀   ░▀▀░░▀▀▀░░▀░░▀▀▀                     ║
-# ║                                                                  ║
-# ║            © 2026               ║
-# ║                                                                  ║
-# ║   discord  ──  https://discord.gg/jRfzgzCTt                      ║
-# ║   github   ──  https://github.com/lavik7066-afk                        ║
-# ║                                                                  ║
-# ╚══════════════════════════════════════════════════════════════════╝
 
 from utils import getConfig
 from utils.config import BotName
@@ -86,7 +74,7 @@ class MentionSelectView(LayoutView):
             )
         elif selected == "Links":
             content = (
-                f"**[Invite {BotName}](https://discord.com/oauth2/authorize?client_id=1396114795102470196)**\n"
+                f"**[Invite {BotName}](https://discord.com/oauth2/authorize?client_id=1547977860529266689&permissions=8&integration_type=0&scope=bot)**\n"
                 "**[Join Support Server](https://discord.gg/jRfzgzCTt)**"
             )
 

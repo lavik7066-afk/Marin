@@ -1,15 +1,3 @@
-# ╔══════════════════════════════════════════════════════════════════╗
-# ║                                                                  ║
-# ║   ░█▀▀░█▀█░█▀▄░█▀▀░█░█   ░█▀▄░█▀▀░█░█░█▀▀                     ║
-# ║   ░█░░░█░█░█░█░█▀▀░▄▀▄   ░█░█░█▀▀░▀▄▀░▀▀█                     ║
-# ║   ░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀░▀   ░▀▀░░▀▀▀░░▀░░▀▀▀                     ║
-# ║                                                                  ║
-# ║            © 2026               ║
-# ║                                                                  ║
-# ║   discord  ──  https://discord.gg/jRfzgzCTt                      ║
-# ║   github   ──  https://github.com/lavik7066-afk                        ║
-# ║                                                                  ║
-# ╚══════════════════════════════════════════════════════════════════╝
 
 """This folder contains games that require discord.py v2.0.0 + to be used
 they utilize UI components such as buttons.

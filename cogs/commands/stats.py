@@ -1,15 +1,3 @@
-# ╔══════════════════════════════════════════════════════════════════╗
-# ║                                                                  ║
-# ║   ░█▀▀░█▀█░█▀▄░█▀▀░█░█   ░█▀▄░█▀▀░█░█░█▀▀                     ║
-# ║   ░█░░░█░█░█░█░█▀▀░▄▀▄   ░█░█░█▀▀░▀▄▀░▀▀█                     ║
-# ║   ░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀░▀   ░▀▀░░▀▀▀░░▀░░▀▀▀                     ║
-# ║                                                                  ║
-# ║            © 2026               ║
-# ║                                                                  ║
-# ║   discord  ──  https://discord.gg/jRfzgzCTt                      ║
-# ║   github   ──  https://github.com/lavik7066-afk                        ║
-# ║                                                                  ║
-# ╚══════════════════════════════════════════════════════════════════╝
 
 import discord
 from utils.emoji import CODEBASE, LOADING, SYSTEM, THUNDER, MARIN_CODE, MARIN_COMMAND, MARIN_GLOBAL, MARIN_OWNER, MARIN_SEARCH

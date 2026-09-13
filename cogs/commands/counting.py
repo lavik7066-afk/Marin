@@ -1,15 +1,3 @@
-# ╔══════════════════════════════════════════════════════════════════╗
-# ║                                                                  ║
-# ║   ░█▀▀░█▀█░█▀▄░█▀▀░█░█   ░█▀▄░█▀▀░█░█░█▀▀                     ║
-# ║   ░█░░░█░█░█░█░█▀▀░▄▀▄   ░█░█░█▀▀░▀▄▀░▀▀█                     ║
-# ║   ░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀░▀   ░▀▀░░▀▀▀░░▀░░▀▀▀                     ║
-# ║                                                                  ║
-# ║            © 2026               ║
-# ║                                                                  ║
-# ║   discord  ──  https://discord.gg/jRfzgzCTt                      ║
-# ║   github   ──  https://github.com/lavik7066-afk                        ║
-# ║                                                                  ║
-# ╚══════════════════════════════════════════════════════════════════╝
 
 import discord
 from utils.emoji import ARROWRED, CROSS, NEXT_ALT1, REDRULESBOOK, RED_BUTTON, RED_PIN, STAR, TICK, ZBACK, ZPAUSE, ZPLAY, ZWARNING
