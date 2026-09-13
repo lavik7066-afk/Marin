@@ -326,7 +326,7 @@ MIT License
 
 *Built for protection. Designed for style.*
 
-<a href="https://discord.gg/jRfzgzCTt"</a>
+
 
 <p>
   <a href="https://discord.gg/jRfzgzCTt"></a>
