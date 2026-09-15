@@ -7,7 +7,7 @@ All emoji definitions are stored here for easy management and consistency.
 # ============================================================================
 # DISCORD CUSTOM EMOJIS (Static)
 # ============================================================================
-BOOST = "<:boost:1448966463586041906>"
+BOOST = "<a:wumbus_nitro_boost_plead:982324650354823169>"
 BUG_HUNTER = "<:BugHunterLevel1:1448949674898620518>"
 BUG_HUNTER_LVL2 = "<:BugHunterLvl2:1122549925237375086>"
 CAST = "<:zcast:1448951414301655175>"
