@@ -11,7 +11,7 @@
 
 <h3>Marin Bot — Python Discord Bot + FastAPI Backend</h3>
 
-<a href="https://nexiohost.in"><img src="https://img.shields.io/badge/⭐%20PREMIUM%20HOSTING-NexioHost-FFD700?style=for-the-badge&labelColor=1a1a2e&color=FFD700&logoColor=FFD700"/></a>
+
 
 <p>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -301,9 +301,6 @@ python Marin2.py
 `pycloudflared` downloads the binary on first run — no extra steps on any host.
 
 > Recommended free hosts: Render · Railway · Fly.io · Pterodactyl
->
-> ⭐ **[NexioHost](https://nexiohost.in)** — Premium bot hosting, built for Discord bots. Fast, reliable, and affordable.
-
 ---
 
 ## ✦ Troubleshooting
